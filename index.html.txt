@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BTCF - Bitcoin Future</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="btcf-logo.png" alt="BTCF Logo" class="logo" />
+    <h1>BTCF - Bitcoin Future</h1>
+    <p>Future of Crypto, Powered by Community.</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="buy-guide.html">How to Buy</a>
+    <a href="roadmap.html">Roadmap</a>
+    <a href="https://bscscan.com/token/0xYourTokenAddress">View on BscScan</a>
+  </nav>
+
+  <main>
+    <section class="hero">
+      <h2>Welcome to BTCF</h2>
+      <p>BTCF is a decentralized token, built to mirror Bitcoin at a 1 BTC = 0.100 BTCF ratio.</p>
+      <p>Smart Contract Address: <code>0xYourTokenAddress</code></p>
+      <a href="https://pancakeswap.finance" class="btn">Buy Now on PancakeSwap</a>
+    </section>
+
+    <section class="features">
+      <h3>Why BTCF?</h3>
+      <ul>
+        <li>Low-cost Bitcoin Mirror Token</li>
+        <li>Runs on BNB Smart Chain</li>
+        <li>Community-Driven Growth</li>
+        <li>Transparent & Immutable</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 BTCF Token. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
